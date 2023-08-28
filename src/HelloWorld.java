@@ -30,6 +30,10 @@
        
   System.out.print(); : 괄호 안 내용을 단순히 출력
   System.out.println(); : 줄바꿈 문자 포함돼서 출력 후 한 줄 띄워짐.
+  
+  
+  
+  
        
  
  
@@ -51,6 +55,14 @@ public class HelloWorld {
 		System.out.print("    ");
 		System.out.print("반갑습니다.");
 		
+		
+		
+		
+		
+		
+		
+		
+	
 		
 		
 	}
